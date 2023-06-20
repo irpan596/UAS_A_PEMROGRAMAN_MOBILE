@@ -1,0 +1,19 @@
+{
+"berita" :[
+    {
+      "judul": "Persigar Siap Arungi LIga 3",
+      "image": "b1.jpg",
+      "berita": "Pertandingan pertama di hari terakhir Grup B Super Jalapa Liga 3 Zona Jawa Barat berlangsung seru..."
+    },
+    {
+      "judul": "Bupati Lepas Squad Persigar",
+      "image": "b2.jpeg",
+      "berita": "Bupati Garut, Rudy Gunawan melepas secara resmi Persatuan Sepak Bola Indonesia Garut (PERSIGAR) untuk mengikuti turnamen Liga 3 Zona Jawa Barat..."
+    },
+    {
+      "judul": "Persigar Siap Hadapi Liga 3",
+      "image": "b3.jpeg",
+      "berita": "Tim sepakbola Persigar Kabupaten Garut bersiap-siap untuk menghadapi kompetisi Liga 3 dan Piala Suratin, dengan membentuk tim senior dan under 17 tahun..."
+    }
+  ]
+}
